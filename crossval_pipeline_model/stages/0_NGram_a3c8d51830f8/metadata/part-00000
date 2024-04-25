@@ -1,1 +1,1 @@
-{"class":"org.apache.spark.ml.feature.NGram","timestamp":1714072429786,"sparkVersion":"3.5.1","uid":"NGram_a3c8d51830f8","paramMap":{"outputCol":"bigrams","inputCol":"stemmed","n":2},"defaultParamMap":{"outputCol":"NGram_26c7391dabf7__output","n":2}}
+{"class":"org.apache.spark.ml.feature.NGram","timestamp":1714073297917,"sparkVersion":"3.5.1","uid":"NGram_a3c8d51830f8","paramMap":{"outputCol":"bigrams","inputCol":"stemmed","n":2},"defaultParamMap":{"outputCol":"NGram_997d3efbde9b__output","n":2}}
