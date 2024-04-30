@@ -24,13 +24,16 @@
 
 
 # Running bigrams
-    # Instructions to run bigram_sentiment_analysis.ipynb
-    1.  Modify lines to use the dataset from the place you saved it in 
+# Instructions to run bigram_sentiment_analysis.ipynb
+  1.  Modify lines to use the dataset from the place you saved it in 
             - json_training_file_path ="../combined_train_data_chunked_10mb_latest.json"
             - df = spark.read.schema(schema).json("../combined_test_data_chunked_10mb_latest.json")
 
 
 # Running bag of words
-
+# Instructions to run BoW_chunking.ipynb
+ 1. Modify lines to use the dataset from the place you saved it in
+    - json_training_file_path = r"C:\Users\Emma\Downloads\school\Big_Data\project\finaldata\combined_train.json"
+    - 
 
 
