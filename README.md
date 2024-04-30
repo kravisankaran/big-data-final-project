@@ -34,6 +34,6 @@
 # Instructions to run BoW_chunking.ipynb
  1. Modify lines to use the dataset from the place you saved it in
     - json_training_file_path = r"C:\Users\Emma\Downloads\school\Big_Data\project\finaldata\combined_train.json"
-    - 
+    - df_test = spark.read.schema(schema).json(r"C:\Users\Emma\Downloads\school\Big_Data\project\finaldata\combined_test.json")
 
 
