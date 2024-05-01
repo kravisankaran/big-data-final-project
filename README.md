@@ -1,8 +1,8 @@
 # big-data-final-project
 # Dataset instructions
 - We have provided combined dataset files that can be utilized across all available notebooks
-    1. combined_train_data_chunked_10mb_latest.json (Training file)
-    2. combined_test_data_chunked_10mb_latest.json (Testing file)
+-     1. combined_train_data_chunked_10mb_latest.json (Training file)
+      2.  combined_test_data_chunked_10mb_latest.json (Testing file)
 - If you would like to run the file combination logic yourself
 -      Instructions to run file_combiner.ipynb
         1. Modify lines to use the datasets from the place you saved it in
