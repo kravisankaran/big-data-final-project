@@ -1,4 +1,6 @@
 # big-data-final-project
+# Environment instructions
+      - Install virtual environment with pip install -r requirements.txt
 # Dataset instructions
 - We have provided combined dataset files that can be utilized across all available notebooks
 -     1. combined_train_data_chunked_10mb_latest.json (Training file)
