@@ -6,6 +6,9 @@
 - If you would like to run the file combination logic yourself
 -      Instructions to run file_combiner.ipynb
         1. Modify lines to use the datasets from the place you saved it in
+               - dir = r"C:\Users\Emma\Downloads\school\Big_Data\project\amazon_review_data
+               - combined_test = r"C:\Users\Emma\Downloads\school\Big_Data\project\finaldata\combined_test.json"
+               - combined_train = r"C:\Users\Emma\Downloads\school\Big_Data\project\finaldata\combined_train.json"  
 
 
 
